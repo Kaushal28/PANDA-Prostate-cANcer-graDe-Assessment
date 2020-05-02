@@ -18,7 +18,7 @@
   - 25 epochs
   - Batch size: 16 images
 
-## Experiment #3
+## Experiment #3 (0.59 on public LB)
 - Used model: DenseNet121, pre-trained ImageNet weights
 - Basic shift, scale, rotation and flips
 - Other settings:
