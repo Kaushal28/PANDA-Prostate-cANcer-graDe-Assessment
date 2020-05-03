@@ -37,7 +37,7 @@
   - 25 epochs
   - Batch size: 16 images
   
-## Experiment #3 (0.60 on public LB)
+## Experiment #5 (0.60 on public LB)
 - Used model: DenseNet121, pre-trained ImageNet weights
 - Basic shift, scale, rotation and flips
 - Other settings:
@@ -46,3 +46,36 @@
   - 25 epochs
   - Batch size: 16 images
   - TTA (Test Time Augmentation)
+
+## Experiment #6 (0.55 on public LB)
+- Used model: DenseNet121, pre-trained ImageNet weights
+- Basic shift, scale, rotation and flips
+- Other settings:
+  - Image size: 256 x 256 size patches of original image
+  - No CV
+  - 25 epochs
+  - Batch size: 16 images
+  - Label Smoothing
+  
+## Experiment #7 (TODO)
+- Used model: DenseNet121, pre-trained ImageNet weights
+- Basic shift, scale, rotation and flips
+- Other settings:
+  - Image size: 256 x 256 size patches of original image
+  - No CV
+  - 25 epochs
+  - Batch size: 16 images
+  - Label Smoothing
+  - TTA
+  
+## Experiment #8 (TODO)
+- Used model: DenseNet121, pre-trained ImageNet weights
+- Basic shift, scale, rotation and flips
+- Other settings:
+  - Image size: 256 x 256 size patches of original image
+  - 5-fold CV
+  - 25 epochs
+  - Batch size: 16 images
+  - Label Smoothing
+  - TTA
+ 
