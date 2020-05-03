@@ -64,7 +64,7 @@ Here are a few approaches I tried to approach the problem with brief description
   - Batch size: 16 images
   - Label Smoothing
   
-## Experiment #7 (TODO)
+## Experiment #7 (0.56 on public LB)
 - Used model: DenseNet121, pre-trained ImageNet weights
 - Basic shift, scale, rotation and flips
 - Other settings:
