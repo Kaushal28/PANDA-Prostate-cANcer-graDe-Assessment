@@ -36,3 +36,13 @@
   - No CV
   - 25 epochs
   - Batch size: 16 images
+  
+## Experiment #3 (0.60 on public LB)
+- Used model: DenseNet121, pre-trained ImageNet weights
+- Basic shift, scale, rotation and flips
+- Other settings:
+  - Image size: 256 x 256 size patches of original image
+  - 5 Fold CV
+  - 25 epochs
+  - Batch size: 16 images
+  - TTA (Test Time Augmentation)
