@@ -1,5 +1,9 @@
 # [PANDA](https://www.kaggle.com/c/prostate-cancer-grade-assessment)-Prostate-cANcer-graDe-Assessment
 
+The challenge in this competition is to classify the severity of prostate cancer (Gleason Scores/ISUP Grades) from microscopy scans of prostate biopsy samples. 
+
+![Example Biopsy Sample and the grading system](./images/desc.jpg)
+
 ## Experiment #1 (0.47 on public LB)
 - Used model: DenseNet121, trained from scratch
 - No image augmentations
