@@ -2,7 +2,7 @@
 
 The challenge in this competition is to classify the severity of prostate cancer (Gleason Scores/ISUP Grades) from microscopy scans of prostate biopsy samples. 
 
-![Example Biopsy Sample and the grading system](./images/desc.jpg)
+![Example Biopsy Sample and the grading system](./images/desc.png)
 
 ## Experiment #1 (0.47 on public LB)
 - Used model: DenseNet121, trained from scratch
