@@ -31,7 +31,7 @@
 - Used model: DenseNet121, pre-trained ImageNet weights
 - Basic shift, scale, rotation and flips
 - Other settings:
-  - Trained on Gleason score instead of direct on ISUP grades
+  - Trained on Gleason score instead of directly on ISUP grades
   - Image size: 256 x 256 size patches of original image
   - No CV
   - 25 epochs
