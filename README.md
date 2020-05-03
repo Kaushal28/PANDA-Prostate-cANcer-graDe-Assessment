@@ -1,8 +1,11 @@
 # [PANDA](https://www.kaggle.com/c/prostate-cancer-grade-assessment)-Prostate-cANcer-graDe-Assessment
 
-The challenge in this competition is to classify the severity of prostate cancer (Gleason Scores/ISUP Grades) from microscopy scans of prostate biopsy samples. 
+The challenge in this Kaggle competition is to classify the severity of prostate cancer (Gleason Scores/ISUP Grades) from microscopy scans of prostate biopsy samples. 
 
 ![Example Biopsy Sample and the grading system](./images/desc.png)
+
+Here are a few approaches I tried to approach the problem with brief description and achieved score on public leader board (Score is Quadratic Weighted Kappa (QWK) in this competition).
+
 
 ## Experiment #1 (0.47 on public LB)
 - Used model: DenseNet121, trained from scratch
