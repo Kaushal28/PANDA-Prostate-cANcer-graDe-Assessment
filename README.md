@@ -81,7 +81,7 @@ Here are a few approaches I tried to approach the problem with brief description
 - Other settings:
   - Image size: 256 x 256 size patches of original image
   - 5-fold CV
-  - 25 epochs
+  - 30 epochs
   - Batch size: 16 images
   - Label Smoothing
   - TTA
