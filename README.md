@@ -75,7 +75,7 @@ Here are a few approaches I tried to approach the problem with brief description
   - Label Smoothing
   - TTA
   
-## Experiment #8 (TODO)
+## Experiment #8 (0.53 on public LB)
 - Used model: DenseNet121, pre-trained ImageNet weights
 - Basic shift, scale, rotation and flips
 - Other settings:
